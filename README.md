@@ -7,4 +7,4 @@ For **reviewer ktHp** and other potentially interested reviewers or the AC.
 
 For **reviewer DVpp** and other potentially interested reviewers or the AC.
 
-<img src="Table%16.png"  width="900"/>
+<img src="Table%2016.png" width="900" alt="Table 16"/>
