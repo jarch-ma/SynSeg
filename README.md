@@ -26,4 +26,4 @@ Due to time constraints and the limited size of the zero-shot reference segmenta
 
 <img src="Rebuttal_Fig_10.png" width="900" alt="Table 16"/>
 
-**Figure 10. SynSeg Reference Segmentation Visualization.**
+**Figure 10. SynSeg reference segmentation visualization.**
