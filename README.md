@@ -19,8 +19,6 @@
 
 Due to time constraints and the limited size of the zero-shot reference segmentation datasets, we have currently only supplemented the performance metrics for RefCOCO. The metrics for RefCOCO+ and RefCOCOg are expected to be updated within three days.
 
-The visualizations of the zero-shot reference segmentation datasets will be updated within 12 hours.
-
 <img src="Table_16.png" width="900" alt="Table 16"/>
 
 --------------------------------------------------------------------------
