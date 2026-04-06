@@ -9,7 +9,9 @@
 --------------------------------------------------------------------------
 **1. Visualization in Target-Constrained Scenarios.** For **reviewer ktHp** and other potentially interested reviewers or the AC.
 
-<img src="Rebuttal_Fig%209.png" alt="Visualization of small objects, occluded objects, and partially visible objects" width="900"/>
+<img src="Rebuttal_Fig%209.png" width="900"/>
+
+**Figure 9. Visualization of small objects, occluded objects, and partially visible objects.**
 
 
 --------------------------------------------------------------------------
@@ -23,3 +25,5 @@ Due to time constraints and the limited size of the zero-shot reference segmenta
 **3. Zero-shot Referring Segmentation Visualization.** For **reviewer DVpp** and other potentially interested reviewers or the AC.
 
 <img src="Rebuttal_Fig_10.png" width="900" alt="Table 16"/>
+
+**Figure 10. SynSeg Reference Segmentation Visualization.**
