@@ -11,4 +11,4 @@ Due to time constraints and the limited size of the zero-shot reference segmenta
 
 The visualizations of the zero-shot reference segmentation datasets will be updated within 12 hours.
 
-<img src="Table%2016.png" width="900" alt="Table 16"/>
+<img src="Table_16.png" width="900" alt="Table 16"/>
