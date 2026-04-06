@@ -17,7 +17,7 @@
 --------------------------------------------------------------------------
 **2. Performance Comparison of State-of-the-Art Models for Zero-shot Referring Segmentation.** For **reviewer DVpp** and other potentially interested reviewers or the AC.
 
-Due to time constraints and the limited size of the zero-shot reference segmentation datasets, we have currently only supplemented the performance metrics for RefCOCO. The metrics for RefCOCO+ and RefCOCOg are expected to be updated within three days.
+We have completed all experiments of SynSeg on the Zero-shot Referring Segmentation task, and the related results will be added to the appendix in the revised manuscript.
 
 <img src="Table_16.png" width="900" alt="Table 16"/>
 
