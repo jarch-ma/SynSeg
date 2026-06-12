@@ -1,27 +1,26 @@
-**Contents:**
+# Data preparation
 
-1. **Visualization in Target-Constrained Scenarios.** 
+1. Create a folder named SynSeg_dataset
+2. Download the dataset from [Jarch-ma/FSS_Dataset](https://huggingface.co/datasets/Jarch-ma/FSS_Dataset) and simply unzip it.
 
-2. **Performance Comparison of State-of-the-Art Models for Zero-shot Referring Segmentation.** 
+# Environment configuration
 
-3. **Zero-shot Referring Segmentation Visualization.**
+1. Creating a conda environment
+ conda env create -n SynSeg python=3.10
+2. Install torch (Depend on your CUDA)
+# CUDA 11.8
+pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu118
+# CUDA 12.4
+pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu124
+3. Install dependencies
+pip install -r requirements.txt
+4. Install flash-attention
+pip uninstall -y ninja && pip install ninja
+pip install flash-attn --no-build-isolation
+5. Install SAM (then delete the folder).
+git clone https://github.com/facebookresearch/sam2.git && cd sam2
+pip install -e .
 
---------------------------------------------------------------------------
-**1. Visualization in Target-Constrained Scenarios.** For **reviewer ktHp** and other potentially interested reviewers or the AC.
-
-<img src="Rebuttal_Fig%209.png" width="900"/>
-
-**Figure 9. Visualization of small objects, occluded objects, and partially visible objects.**
 
 
---------------------------------------------------------------------------
-**2. Performance Comparison of State-of-the-Art Models for Zero-shot Referring Segmentation.** For **reviewer DVpp** and other potentially interested reviewers or the AC.
 
-<img src="Table_16.png" width="900" alt="Table 16"/>
-
---------------------------------------------------------------------------
-**3. Zero-shot Referring Segmentation Visualization.** For **reviewer DVpp** and other potentially interested reviewers or the AC.
-
-<img src="Rebuttal_Fig_10.png" width="900" alt="Table 16"/>
-
-**Figure 10. SynSeg reference segmentation visualization.**
