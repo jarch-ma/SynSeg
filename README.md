@@ -1,4 +1,4 @@
-# 1. Data Preparation
+# Data Preparation
 
 1. Create a folder named `SynSeg_dataset`.
 
@@ -6,15 +6,15 @@
 
 ---
 
-# 2. Environment Configuration
+# Environment Configuration
 
 Please run the following commands to configure the environment:
 
 ```bash
-# 2. Creating a conda environment
+# 1. Creating a conda environment
 conda env create -n SynSeg python=3.10
 
-# Install torch Depend on your CUDA
+# 2. Install torch Depend on your CUDA
 
 # 2.1 CUDA 11.8
 pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu118
