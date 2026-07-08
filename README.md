@@ -1,3 +1,9 @@
+# Approaching the SAM Oracle via Test-Time Topological Synergy from MLLM
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jarch-ma.SynSeg&left_text=visitors&left_color=%23595959&right_color=%231283c3" alt="visitors">
+</p>
+
 # Data Preparation
 
 1. Create a folder named `SynSeg_dataset`.
